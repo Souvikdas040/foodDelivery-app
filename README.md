@@ -8,16 +8,16 @@ The **Food Delivery App** is a modern web application designed to streamline the
 ✅ **Browse Restaurants & Dishes** – Explore a variety of food options  
 ✅ **Add to Cart & Checkout** – Smooth order placement and payment integration  
 ✅ **Order Tracking** – Track real-time order status  
-✅ **Admin Dashboard** – Manage restaurants, menu items, and orders  
-✅ **Responsive Design** – Mobile-friendly UI using Tailwind CSS  
+✅ **Admin Dashboard** – Manage food items, menu items, and orders  
+✅ **Responsive Design** – Mobile-friendly UI using media query  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React.js, Tailwind CSS  
+- **Frontend**: React.js, External CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Authentication**: JWT (JSON Web Token)  
 - **State Management**: Redux  
-- **Payment Gateway**: (e.g., Stripe/Razorpay, if integrated)  
+- **Payment Gateway**: Stripe integrated 
 
 ## 📂 Project Setup  
 Follow these steps to set up and run the project locally:  
