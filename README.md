@@ -29,4 +29,23 @@ cd foodDelivery-app
 ```
 
 ### 2️⃣ Install Dependencies
+#### Backend
+```sh
+cd backend
+npm install
+npm run server
+```
+#### Frontend
+```sh
+cd ../frontend
+npm install
+npm run dev
+```
+
+#### Admin
+```sh
+cd ../admin
+npm install
+npm run dev
+```
 
