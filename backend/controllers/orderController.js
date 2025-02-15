@@ -15,7 +15,7 @@ const placeOrder = async(req, res) => {
             items: req.body.items,
             amount: req.body.amount,
             address: req.body.address,
-            payment: req.body.paymentMethod === "COD" ? true : false,
+            payment: req.body.paymentMethod === "COD" ? true : req.body.paymentMethod === "Online" ? true : false,
             paymentMethod: req.body.paymentMethod
         })
 
