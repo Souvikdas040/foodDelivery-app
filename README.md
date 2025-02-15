@@ -33,19 +33,49 @@ cd foodDelivery-app
 ```sh
 cd backend
 npm install
-npm run server
+```
+#### Admin
+```sh
+cd ../admin
+npm install
 ```
 #### Frontend
 ```sh
 cd ../frontend
 npm install
+```
+
+
+### 3️⃣ Configure Environment Variables
+Create a .env file in both the backend and frontend directories and add the necessary configurations (e.g., database URL, JWT secret, API keys).
+
+### 4️⃣ Run the Application
+#### Start Backend Server
+```
+cd backend
+npm run server
+```
+### Start Admin Server
+```
+cd admin
+npm run dev
+```
+### Start Frontend Server
+```
+cd frontend
 npm run dev
 ```
 
-#### Admin
-```sh
-cd ../admin
-npm install
-npm run dev
-```
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/3ca90b64-9b63-4ab2-9b17-a6929e69c17f)
 
+## 📜 License
+This project is open-source and available under the MIT License.
+
+## 💡 Contribution
+Want to contribute? Feel free to fork the repo, make your changes, and submit a pull request!
+
+## 📞 Contact
+For any queries or suggestions, contact Souvik Das via:
+📧 Email: **souviksvs2008@gmail.com**
+🔗 GitHub: **Souvikdas040**
