@@ -3,6 +3,11 @@
 ## 📌 Overview  
 The **Food Delivery App** is a modern web application designed to streamline the process of ordering food online. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application provides a seamless and responsive user experience, allowing customers to browse, order, and track their favorite meals effortlessly.  
 
+## 🔗 Live Demo
+> 🌐 Deployed on [Render](https://render.com)  
+> 🔗 **Live URL (User Page):** _[https://fooddelivery-app-frontend-ql8o.onrender.com/](https://fooddelivery-app-frontend-ql8o.onrender.com/)_
+> 🔗 **Live URL (Admin Page):** _[https://fooddelivery-admin-0y1m.onrender.com/](https://fooddelivery-admin-0y1m.onrender.com/)_
+
 ## 🚀 Features  
 ✅ **User Authentication** – Secure login and signup functionality  
 ✅ **Browse Restaurants & Dishes** – Explore a variety of food options  
