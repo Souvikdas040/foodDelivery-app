@@ -77,5 +77,5 @@ Want to contribute? Feel free to fork the repo, make your changes, and submit a 
 
 ## 📞 Contact
 For any queries or suggestions, contact Souvik Das via:
-📧 Email: [**souviksvs2008@gmail.com**](mailto:souviksvs2008@gmail.com)
+📧 Email: [**souvikdas.aec@gmail.com**](mailto:souvikdas.aec@gmail.com)
 🔗 GitHub: [**Souvikdas040**](https://github.com/Souvikdas040)
